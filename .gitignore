@@ -19,3 +19,5 @@ yarn-error.log*
 # Build/log/archive files
 *.log
 *.zip
+# Additional monorepo safeguards
+**/node_modules/
